@@ -805,6 +805,12 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     font-size: 18px;
     margin-bottom: 20px;
 }
+
+.main .claim .info-text{
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
 #video_background {
     position: fixed;
     top: 0px;
